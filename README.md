@@ -1,2 +1,1 @@
-# git-remote-dari-pak-okta
-git remote
+#assigment from my lecturer sir okta to make git remote
